@@ -1,4 +1,4 @@
-### B3	Introduction: Environments and Problem Solving Methods
+### B1	Introduction: Environments and Problem Solving Methods
 
 ---
 
